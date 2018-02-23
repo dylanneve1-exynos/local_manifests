@@ -3,7 +3,7 @@
   <!--Device tree-->
   <project name="dylanneve1-exynos/android_device_samsung_hero2lte_oreo" path="device/samsung/hero2lte" remote="github" revision="xenonhd-o"/>
   <project name="dylanneve1-exynos/android_device_samsung_herolte_oreo" path="device/samsung/herolte" remote="github" revision="xenonhd-o"/>
-  <project name="dylanneve1-exynos/android_device_samsung_hero-common_oreo_video" path="device/samsung/hero-common" remote="github" revision="lineage-15.1-nk"/>
+  <project name="dylanneve1-exynos/android_device_samsung_hero-common_oreo" path="device/samsung/hero-common" remote="github" revision="lineage-15.1-nk"/>
   <!--Hardware-->
   <project name="ivanmeler/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1"/>
   <project name="ivanmeler/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-15.1"/>
